@@ -1,4 +1,5 @@
-Welcome to the official home of ColorMyPic—the app that turns everyday photos into custom, printable coloring pages for screen-free fun.
+# Welcome
+We are happy to see you at the official home of ColorMyPic — the app that turns everyday photos into custom, printable coloring pages for screen-free fun.
 
 ### Policies & Legal
 To read about how we protect your data and the rules of the app, please review our documents below:
