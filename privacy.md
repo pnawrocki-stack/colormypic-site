@@ -1,5 +1,5 @@
-# Privacy Policy — ColorMyPic
-**Effective Date:** March 26, 2026
+# Privacy Policy
+**Effective Date:** April 11, 2026
 
 ## 1. Introduction
 
