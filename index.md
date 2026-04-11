@@ -1,8 +1,11 @@
-# Welcome to ColorMyPic
+Welcome to the official home of ColorMyPic—the app that turns everyday photos into custom, printable coloring pages for screen-free fun.
 
-We hope you are enjoying our app.
-Here are the key legal documents:
-1. [Terms and Conditions](https://colormypic.app/terms)
-2. [Privacy Policy](https://colormypic.app/privacy)
+### Policies & Legal
+To read about how we protect your data and the rules of the app, please review our documents below:
+* [Terms and Conditions](terms.html)
+* [Privacy Policy](privacy.html)
 
-Feel free to contact us at [contact@colormypic.app](mailto:contact@colormypic.app).
+### Get in Touch
+Whether you need support with a subscription, have a question, or just want to share a cool coloring page you made, we'd love to hear from you! 
+
+Drop us an email at [contact@colormypic.app](mailto:contact@colormypic.app).
