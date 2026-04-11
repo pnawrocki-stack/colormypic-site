@@ -98,9 +98,7 @@ Nothing in these Terms excludes or limits liability for:
 
 ## 9. Privacy Policy
 
-Your privacy is important to us. Please review our Privacy Policy, available at:
-
-https://www.notion.so/Privacy-Policy-ColorMyPic-32f028b7963180c19633c7d8b2a08573?pvs=21
+Your privacy is important to us. Please review our Privacy Policy, available at [https://colormypic.app/privacy](https://colormypic.app/privacy)
 
 
 
