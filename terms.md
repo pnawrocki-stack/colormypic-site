@@ -1,5 +1,5 @@
-# Terms & Conditions — ColorMyPic
-**Effective Date:** March 26, 2026
+# Terms & Conditions
+**Effective Date:** April 11, 2026
 
 
 ## Introduction
