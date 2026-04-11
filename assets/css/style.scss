@@ -1,0 +1,19 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Change Background and Text */
+body {
+  background-color: #25292e;
+  color: #DDDDDD;
+}
+
+/* Change Headers */
+h1, h2, h3 {
+  color: #FFFFFF;
+}
+
+/* Change Link Colors */
+a {
+    color: hsl(28, 100%, 65%);
+}
