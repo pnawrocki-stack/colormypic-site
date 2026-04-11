@@ -18,6 +18,10 @@ h1, h2, h3 {
     font-weight: 400 !important;
   }
 }
+/* No margin if H2 immediately after H1 */
+h1 + h2 {
+  margin-top: 0 !important;
+}
 
 /* Change Link Colors */
 a {
