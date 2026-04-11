@@ -1,7 +1,7 @@
-# Privacy Policy
+## Privacy Policy
 **Effective Date:** April 11, 2026
 
-## 1. Introduction
+### 1. Introduction
 
 ColorMyPic ("we," "our," or "the App") provides AI-powered tools that allows to generate personalized coloring pages from user-submitted images. The App is intended for use by adults (such as parents or guardians). It is not directed to children and is designed to be used by adults, including when creating content for children.
 
@@ -13,18 +13,18 @@ By using the App, you confirm that you are at least 18 years old or are using th
 
 
 
-## 2. Information We Collect
+### 2. Information We Collect
 
 We collect only the information needed to provide and improve the App.
 
-### 2.1 Account Information
+#### 2.1 Account Information
 
 - Email address (used for passwordless authentication via one-time password)
 - Internal user identifier
 
 
 
-### 2.2 User Content (Images)
+#### 2.2 User Content (Images)
 
 When you use the App:
 
@@ -36,7 +36,7 @@ We do not keep images longer than needed to complete processing and delivery to 
 
 
 
-### 2.3 Usage Data
+#### 2.3 Usage Data
 
 We collect limited technical and usage-related information, including:
 
