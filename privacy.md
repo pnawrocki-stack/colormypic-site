@@ -5,7 +5,7 @@
 
 ColorMyPic ("we," "our," or "the App") provides AI-powered tools that allows to generate personalized coloring pages from user-submitted images. The App is intended for use by adults (such as parents or guardians). It is not directed to children and is designed to be used by adults, including when creating content for children.
 
-The data controller responsible for your personal data is Paweł Nawrocki UKD, based in Poland.
+The data controller responsible for your personal data is Paweł Nawrocki UKD, based in Warsaw, Poland, and can be contacted at privacy@colormypic.app.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and how we handle it.
 
@@ -93,8 +93,8 @@ We process your data based on the following legal grounds under applicable data 
 
 ## 4. Data Storage and Retention
 
-- Images are stored only temporarily for processing and are deleted shortly thereafter
-- Account information is retained while your account is active
+- User images are stored only temporarily for processing and are deleted immediately after user requests download of generated content
+- Account information is retained until account deletion
 - Usage data is retained only as long as necessary for operational, debugging, and analytical purposes
 
 
@@ -108,6 +108,9 @@ We use third-party services to operate the App, including:
 - **Adapty** and Google Play for payments
 
 These services may process data on our behalf and may operate in jurisdictions outside your country of residence. Where such transfers occur, we rely on appropriate safeguards such as Standard Contractual Clauses or equivalent legal mechanisms.
+We do not sell or share personal data with third parties for their own purposes.
+We do not use your images or data to train AI models
+
 
 
 
@@ -115,7 +118,7 @@ These services may process data on our behalf and may operate in jurisdictions o
 
 The App is not directed to children and is intended to be used by adults (such as parents or guardians). Children may only use the App under the supervision of a parent or legal guardian.
 
-We do not knowingly collect personal information directly from children. If we become aware that personal data has been collected from a child without appropriate parental consent, we will take steps to delete such information.
+We do not knowingly collect personal data of children as independent users. If we become aware that personal data has been collected from a child without appropriate parental consent, we will take steps to delete such information.
 
 
 
