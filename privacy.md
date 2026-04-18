@@ -142,7 +142,7 @@ Under applicable data protection laws, you have the right to:
 
 You also have the right to lodge a complaint with a supervisory authority, including **Urząd Ochrony Danych Osobowych**.
 
-To exercise your rights, contact: contact@colormypic.app
+To exercise your rights, contact: privacy@colormypic.app
 
 
 
