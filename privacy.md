@@ -68,6 +68,7 @@ We may collect limited technical data such as:
 - Device type
 - App version
 - Crash logs
+- Analytics
 
 This data is used only to maintain and improve the App.
 
