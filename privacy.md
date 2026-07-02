@@ -1,5 +1,5 @@
 # Privacy Policy
-**Effective Date:** April 11, 2026
+**Effective Date:** July 2, 2026
 
 ## 1. Introduction
 
@@ -44,7 +44,7 @@ We collect limited technical and usage-related information, including:
 - Timestamps
 - Generation parameters (e.g., selected options)
 
-This data does not include image content.
+This data **does not** include image content.
 
 
 
@@ -57,7 +57,7 @@ We store:
 - Subscription status
 - Usage credits associated with your account
 
-We do not collect or store payment card details.
+We **do not** collect or store payment card details.
 
 
 
@@ -68,7 +68,7 @@ We may collect limited technical data such as:
 - Device type
 - App version
 - Crash logs
-- Analytics
+- Analytics (incl. IP)
 
 This data is used only to maintain and improve the App.
 
@@ -87,7 +87,7 @@ We use collected information to:
 We process your data based on the following legal grounds under applicable data protection laws:
 
 - Performance of a contract (to provide the App’s functionality)
-- Legitimate interests (to improve and maintain the App)
+- Legitimate interests (to improve and maintain the App and for fraud prevention and security)
 - Compliance with legal obligations, where applicable
 
 
